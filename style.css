@@ -1,19 +1,20 @@
 @charset "UTF-8";
-html{
+
+html {
     font-size: 100%;
 }
-h1{
-    font-size:2rem;
-    text-align: center;    
-}
-h2{
-    font-size:1.5rem;
-}
+
 h1 {
-  color: blue;
+    font-size: 2rem;
+    text-align: center;
+    color: blue;
 }
 
 h2 {
-  color: green;
+    font-size: 1.5rem;
+    color: green;
 }
 
+body {
+    background-image: url('bg.png');
+}
